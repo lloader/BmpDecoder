@@ -124,6 +124,7 @@ int main() {
 
 	unsigned int RedMask, GreenMask, BlueMask, AlphaMask = 0;
 	/*
+	1
 	input.read(reinterpret_cast<char*>(&bfh.bfType), sizeof(bfh.bfType));
 	input.read(reinterpret_cast<char*>(&bfh.bfSize), sizeof(bfh.bfSize));
 	input.read(reinterpret_cast<char*>(&bfh.bfReserved1), sizeof(bfh.bfReserved1));
